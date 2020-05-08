@@ -1,2 +1,2 @@
 # git-testing
-For git learning..
+#This is for git tutorial purpose only..
